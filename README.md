@@ -34,7 +34,7 @@ Check out my pinned repositories below to see my work!
 
 ## Let's Connect
 
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/tejasvaidya1903/)
+- LinkedIn: [https://www.linkedin.com/in/tejasvaidya1903/](https://www.linkedin.com/in/tejasvaidya1903/)
 - Email: vaidyatejas02@gmail.com
 <!-- Portfolio: [your-portfolio-site.com](https://your-portfolio-site.com) <!-- Add if you have one -->
 
