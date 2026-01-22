@@ -1,4 +1,4 @@
-# Hi there, I'm Tejas Vaidya
+# Hey there, I'm Tejas Vaidya
 
 ## About Me
 
