@@ -27,8 +27,9 @@ I'm a **M.S. in Data Analytics** student at **Georgia State University**, workin
 
 ## Featured Projects
 
-[![LapLens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejasvaidya10&theme=tokyonight)](https://github.com/Tejasvaidya10/laplens)
-[![NeuroScan](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejasvaidya10&theme=tokyonight)](https://github.com/Tejasvaidya10/NeuroScan)
+- [LapLens](https://github.com/Tejasvaidya10/laplens) - F1 racing analytics
+- [NeuroScan](https://github.com/Tejasvaidya10/NeuroScan) - Python project
+
 
 
 Check out my pinned repositories below to see my work!
