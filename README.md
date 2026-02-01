@@ -27,8 +27,8 @@ I'm a **M.S. in Data Analytics** student at **Georgia State University**, workin
 
 ## Featured Projects
 
-<!-- Pin your best repositories and they'll show up automatically -->
-<!-- Or manually link your top projects here -->
+[![LapLens](https://github-readme-stats.vercel.app/api/pin/?username=Tejasvaidya10&repo=laplens&theme=tokyonight)](https://github.com/Tejasvaidya10/laplens)
+[![NeuroScan](https://github-readme-stats.vercel.app/api/pin/?username=Tejasvaidya10&repo=NeuroScan&theme=tokyonight)](https://github.com/Tejasvaidya10/NeuroScan)
 
 Check out my pinned repositories below to see my work!
 
