@@ -27,8 +27,9 @@ I'm a **M.S. in Data Analytics** student at **Georgia State University**, workin
 
 ## Featured Projects
 
-[![LapLens](https://github-readme-stats.vercel.app/api/pin/?username=Tejasvaidya10&repo=laplens&theme=tokyonight)](https://github.com/Tejasvaidya10/laplens)
-[![NeuroScan](https://github-readme-stats.vercel.app/api/pin/?username=Tejasvaidya10&repo=NeuroScan&theme=tokyonight)](https://github.com/Tejasvaidya10/NeuroScan)
+[![LapLens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejasvaidya10&theme=tokyonight)](https://github.com/Tejasvaidya10/laplens)
+[![NeuroScan](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejasvaidya10&theme=tokyonight)](https://github.com/Tejasvaidya10/NeuroScan)
+
 
 Check out my pinned repositories below to see my work!
 
@@ -40,9 +41,7 @@ Check out my pinned repositories below to see my work!
 
 ## GitHub Stats
 
-![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejasvaidya10&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasvaidya10&layout=compact&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejasvaidya10&theme=tokyonight)
 
 ---
 
