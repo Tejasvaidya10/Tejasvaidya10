@@ -127,18 +127,6 @@ Comprehensive time series analysis processing 2M+ rows with advanced forecasting
 - **Oracle Cloud Infrastructure Data Science Professional** - [View Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D9C02D6EA15B715B5B46C23D9A3A71088D7A2952FF96B01F4E3BD1DB64C4D44D)
 - **Google Advanced Data Analytics**
 
-## GitHub Stats
-
-<div align="center">
-  
-![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejasvaidya10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasvaidya10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tejasvaidya10&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
 ## What I'm Working On
 
 - Building evaluation frameworks for production LLM systems
