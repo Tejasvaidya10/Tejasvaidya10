@@ -10,14 +10,12 @@
 
 ## About Me
 
-I'm a **M.S. Data Analytics** candidate at **Georgia State University** with 1+ year of experience applying experimentation, statistical inference, and machine learning to drive business outcomes. Currently working as a Graduate Research Assistant at **Truist Bank**, where I'm building evaluation frameworks for LLMs and streamlining ML experimentation workflows.
+M.S. Data Analytics candidate at Georgia State University with 1+ year of experience in machine learning, statistical inference, and experimentation. Currently a Graduate Research Assistant at Truist Bank, building LLM evaluation frameworks and streamlining ML experimentation workflows.
 
-- Building LLM evaluation systems and monitoring frameworks
-- Deepening expertise in statistical modeling, time series forecasting, and ML interpretability
-- Created [LapLens](https://laplens.app) - a full-stack F1 telemetry analytics platform
+- Building evaluation systems for production LLM applications
+- Created [LapLens](https://laplens.app) - F1 telemetry analytics platform processing 2M+ data points
 - 3rd Place winner at AI For Good Hackathon with SparkPath
 - Based in Atlanta, Georgia
-- Open to Data Science opportunities starting December 2026
 
 ## Technical Skills
 
@@ -33,94 +31,44 @@ I'm a **M.S. Data Analytics** candidate at **Georgia State University** with 1+ 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat&logo=transformers&logoColor=white)
 
-### Data Platforms & Tools
+### Data Platforms & Visualization
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 
-### Statistics & Experimentation
-- A/B Testing & Hypothesis Testing
-- Statistical Inference & Causal Analysis
-- Regression & Time Series (ARIMA, SARIMA, LSTM)
-- Cross-Validation & Model Evaluation
-
-## Professional Experience
-
-### Graduate Research Assistant | Truist Bank
-*Aug 2025 - Present | Atlanta, USA*
-- Built evaluation and monitoring layer for internal LLM with quality metrics (faithfulness, answer relevance, context precision/recall)
-- Designed end-to-end evaluation framework combining statistical and ML-based metrics for release readiness in CI/CD
-- Streamlined prompt experimentation with LangSmith, reducing iteration cycles by 80%
-
-### Data Analyst | Emillia Travel Consultancy
-*Jun 2024 - Jul 2025 | Mumbai, India*
-- Analyzed 50K+ booking records using Python and SQL, improving targeted marketing ROI and conversion by 15%
-- Built customer segments with RFM features and k-means clustering, increasing seasonal revenue by 10%
-- Developed Tableau and Power BI dashboards for sales KPIs and conversion funnels
+**Statistics & Experimentation:** A/B Testing, Hypothesis Testing, Statistical Inference, Regression, Time Series (ARIMA, SARIMA, LSTM)
 
 ## Featured Projects
 
 ### [LapLens - F1 Telemetry Analytics](https://laplens.app)
-*Nov 2025 - Jan 2026*
+Full-stack platform for comparing F1 drivers across sessions since 2018 with interactive visualizations for speed, sectors, throttle/brake, and race pace.
 
-Full-stack telemetry analytics platform for comparing F1 drivers across sessions since 2018.
-
-**Tech Stack:** FastAPI, FastF1, Pandas, React, TypeScript, Oracle Cloud, Cloudflare Pages
-
-**Features:**
-- Interactive visualizations for speed traces, sector deltas, throttle/brake patterns, gear usage
-- Cached Quick Start races for instant loading
-- AI-generated key takeaways from race data
-- 2M+ telemetry data points processed
+**Tech Stack:** FastAPI, FastF1, Pandas, React, TypeScript, Oracle Cloud
 
 ### SparkPath - AI Career Discovery Platform
-*Nov 2025 | 3rd Place - AI For Good Hackathon*
+**3rd Place - AI For Good Hackathon**
 
-AI-powered career discovery platform using real-time chat to guide users through career exploration.
+AI-powered career guidance platform with real-time chat using AWS Bedrock (Claude 3) and DynamoDB.
 
-**Tech Stack:** React, TypeScript, AWS Bedrock (Claude 3), DynamoDB, Socket.io
-
-[View on Devpost](https://devpost.com)
+**Tech Stack:** React, TypeScript, AWS Bedrock, DynamoDB, Socket.io
 
 ### Keyword Extraction & Insights from URLs
-*Jan 2025 - Jun 2025*
+Built ETL pipeline extracting keywords from 1M+ URLs using BERT embeddings and k-means clustering. Created dashboards supporting A/B tests that contributed to 12% sales increase.
 
-ETL pipeline for extracting and clustering keywords from 1M+ URLs for topic discovery and trend analysis.
-
-**Tech Stack:** Python, AWS, BERT, k-means clustering, Tableau
-
-**Impact:**
-- Generated BERT embeddings for semantic similarity
-- Created dashboards supporting A/B test analysis
-- Contributed to 12% increase in sales through improved targeting
+**Tech Stack:** Python, AWS, BERT, Tableau
 
 ### Time Series Forecasting of Household Power Consumption
-*Jun 2024 - Nov 2024*
+Processed 2M+ rows with 15+ engineered features. Benchmarked ARIMA, SARIMA, and LSTM models using nested cross-validation.
 
-Comprehensive time series analysis processing 2M+ rows with advanced forecasting models.
-
-**Tech Stack:** Python, ARIMA, SARIMA, LSTM, MICE imputation
-
-**Methodology:**
-- Engineered 15+ temporal and lag features
-- Benchmarked multiple models using nested cross-validation
-- Compared MAE and RMSE across multiple forecast horizons
+**Tech Stack:** Python, ARIMA, SARIMA, LSTM
 
 ## Education
 
-**Georgia State University** | *Aug 2025 - Dec 2026*
-- M.S. in Data Analytics
-- Coursework: Statistical & Machine Learning, Data Visualization, Predictive Analytics
+**Georgia State University** | M.S. in Data Analytics | Aug 2025 - Dec 2026
 
-**University of Mumbai** | *Jun 2020 - Jul 2024*
-- B.E. in Electronics and Telecommunications
-- Coursework: Data Structures & Algorithms, Computer Networks, Digital Signal Processing
+**University of Mumbai** | B.E. in Electronics and Telecommunications | Jun 2020 - Jul 2024
 
 ## Certifications
 
@@ -130,7 +78,6 @@ Comprehensive time series analysis processing 2M+ rows with advanced forecasting
 ## What I'm Working On
 
 - Building evaluation frameworks for production LLM systems
-- Exploring causal inference and experimentation design
 - Expanding LapLens with race strategy analysis and predictive models
 - Contributing to open-source data science projects
 
