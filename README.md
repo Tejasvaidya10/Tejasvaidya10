@@ -4,7 +4,7 @@
 
 I build production-grade LLM and machine learning systems. Currently a Graduate Research Assistant at **Truist Bank**, where I developed a RAG evaluation framework for an enterprise AI chatbot using AWS Bedrock and LLM-as-Judge methodology.
 
-Open to **AI/ML Engineer internships and contract roles** — United States.
+Open to **AI/ML Engineer internships and contract roles** — based in United States.
 
 ---
 
@@ -12,7 +12,7 @@ Open to **AI/ML Engineer internships and contract roles** — United States.
 
 - **RAG evaluation framework @ Truist** — production pipeline for measuring retrieval quality, answer faithfulness, and groundedness on an enterprise chatbot. Python, AWS Bedrock, LLM-as-Judge.
 - **[LapLens](https://github.com/Tejasvaidya10/laplens)** — full-stack F1 telemetry analytics platform. React + FastAPI, FastF1 data pipeline, deployed on Oracle Cloud + Cloudflare Pages.
-- **ARIA** — ML service with XGBoost, containerized with Docker, CI/CD via GitHub Actions.
+- **[ARIA](https://github.com/Tejasvaidya10/ARIA)** — 4-stage GenAI pipeline for insurance underwriting. PDF ingestion with custom spaCy NER, XGBoost + SHAP risk classification, FAISS retrieval, and Claude tool-use orchestration. [Live demo ↗](https://aria-pi-blond.vercel.app)
 - Coursework in Deep Learning, Machine Learning, and GenAI Solutions (Spring 2026).
 
 ---
@@ -22,8 +22,8 @@ Open to **AI/ML Engineer internships and contract roles** — United States.
 | Project | What it does | Stack |
 |---|---|---|
 | [**LapLens**](https://github.com/Tejasvaidya10/laplens) | F1 telemetry analytics — lap comparisons, sector analysis, driver performance over a race weekend. | React, FastAPI, FastF1, Oracle Cloud, Cloudflare Pages |
-| [**ARIA**](https://github.com/Tejasvaidya10/ARIA) | Productionized ML service — gradient-boosted model served via container with automated CI/CD. | Python, XGBoost, Docker, GitHub Actions |
-| **MedSift AI** *(Hacklytics 2026)* | Audio-to-clinical-notes pipeline — transcribes patient conversations and extracts structured clinical data. | Python, speech-to-text, LLMs |
+| [**ARIA**](https://github.com/Tejasvaidya10/ARIA) · [live demo ↗](https://aria-pi-blond.vercel.app) | GenAI underwriting assistant — PDF → custom NER → XGBoost + SHAP → FAISS retrieval → Claude tool-use synthesis. 4 microservices, 81 tests. | FastAPI, spaCy, XGBoost, SHAP, FAISS, Claude, React, Docker |
+| [**MedSift AI**](https://github.com/Tejasvaidya10/MedSift-Ai) *(Hacklytics 2026)* | Privacy-first healthcare conversation intelligence — audio in, SOAP notes + risk score + trial matches out. Fully local: Whisper + Presidio PHI redaction + Ollama (LLaMA 3.1), zero cloud APIs. | FastAPI, Whisper, Presidio, Ollama, Streamlit, SQLite FTS5 |
 
 > Pinned repos below have the full write-ups.
 
