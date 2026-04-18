@@ -4,7 +4,7 @@
 
 I build production-grade LLM and machine learning systems. Currently a Graduate Research Assistant at **Truist Bank**, where I developed a RAG evaluation framework for an enterprise AI chatbot using AWS Bedrock and LLM-as-Judge methodology.
 
-Open to **AI/ML Engineer internships and contract roles** — based in Atlanta, GA.
+Open to **AI/ML Engineer internships and contract roles** — United States.
 
 ---
 
