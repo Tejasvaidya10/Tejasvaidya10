@@ -10,7 +10,7 @@ Open to **AI/ML Engineer internships and contract roles** — based in United St
  
 ## What I'm working on
  
-- **RAG evaluation framework @ Truist** — production pipeline for measuring retrieval quality, answer faithfulness, and groundedness on an enterprise chatbot. Python, AWS Bedrock, LLM-as-Judge.
+- **Agentic RAG evaluation framework** — production pipeline for measuring retrieval quality, answer faithfulness, and groundedness on an enterprise chatbot. Python, AWS Bedrock, LLM-as-Judge.
 - **[LapLens](https://github.com/Tejasvaidya10/laplens)** — full-stack F1 telemetry analytics platform. React + FastAPI, FastF1 data pipeline, deployed on Oracle Cloud + Cloudflare Pages.
 - **[ARIA](https://github.com/Tejasvaidya10/ARIA)** — 4-stage GenAI pipeline for insurance underwriting. PDF ingestion with custom spaCy NER, XGBoost + SHAP risk classification, FAISS retrieval, and Claude tool-use orchestration. [Live demo ↗](https://aria-pi-blond.vercel.app)
 - Coursework in Deep Learning, Machine Learning, and GenAI Solutions (Spring 2026).
